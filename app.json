@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "app2",
+    "slug": "app2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/morta.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gregory1221.app2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8361cb23-beb4-490a-8de9-e82f4fd59967"
+      }
+    }
+  }
+}
